@@ -113,4 +113,4 @@ Markdown
 
  
 
-**Closed by:** Andras – [date]
+**Closed by:** Andras – 2026/04/26
