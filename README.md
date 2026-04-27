@@ -61,7 +61,7 @@ Copy-Paste AI Reference Summary Template as example
 
 Markdown
 
-## ✅ AI Reference Summary (for future retrieval)
+## ✅ AI Reference Summary
 
  
 
